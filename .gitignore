@@ -1,1 +1,17 @@
 
+
+
+
+#### `.gitignore`
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.h5
+*.pkl
+*.joblib
+data/*.csv
+venv/
+env/
+.DS_Store
